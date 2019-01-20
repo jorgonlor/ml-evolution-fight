@@ -1,6 +1,6 @@
 /* 
  * renderer.js
- * Created by Jorge Gonzalez, January, 10, 2019.
+ * Created by Jorge Gonzalez, jorgonlor@gmail.com, January, 10, 2019.
  * Released under MIT License - see LICENSE file for details.
  */
 
